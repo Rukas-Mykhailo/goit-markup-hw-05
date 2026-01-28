@@ -436,9 +436,11 @@ a {
 
 .footer-container {
   display: flex;
-  align-items: baseline;
-  gap: 120px;
   color: #f4f4fd;
+}
+
+.footer-left {
+  margin-right: 120px;
 }
 
 .footer-logo {
